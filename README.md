@@ -17,7 +17,7 @@ MedHelp - is a web application which provides all the medical facilities at one 
 For demo clone the project using 
 
 ```bash
-  git clone https://github.com/ritikjain77/MedHelp.git
+  git clone https://github.com/anmol-19/MedHelp.git
 ```
 
 
